@@ -18685,7 +18685,7 @@ form.search-box {
 
 .navbar .search-right .popup form input:focus {
   outline: none;
-  border: 2px solid var(--primary-color);
+  border: 2px solid  #a77a28;
   background: transparent;
 }
 
